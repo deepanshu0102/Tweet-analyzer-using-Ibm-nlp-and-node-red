@@ -1,0 +1,1 @@
+[{"id":"fcadfeb0.955ed","type":"watson-natural-language-classifier","z":"24a838b3.51f5c8","name":"Classifier","mode":"classify","language":"en","classifier":"2d7ae7x101-nlc-769","x":501,"y":118,"wires":[["10161686.885789"]]}]
